@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "/home/codespace/.python/current/bin/python3",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "notebook.defaultFormatter": "ms-toolsai.jupyter"
+}
